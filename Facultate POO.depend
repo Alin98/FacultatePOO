@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1543670130 source:c:\users\pc\desktop\facultate poo\main.cpp
+	<iostream>
+	"Person.h"
+	"Person.cpp"
+	"Role.h"
+	<vector>
+	"StudentRole.cpp"
+
+1543612380 c:\users\pc\desktop\facultate poo\person.h
+	<string>
+	"Role.h"
+	<vector>
+
+1543668382 c:\users\pc\desktop\facultate poo\role.h
+
+1543612462 c:\users\pc\desktop\facultate poo\student.h
+	"Role.h"
+
+1543612901 c:\users\pc\desktop\facultate poo\studentrole.h
+	"Role.h"
+
+1543668547 c:\users\pc\desktop\facultate poo\person.cpp
+	"Person.h"
+
+1543670165 c:\users\pc\desktop\facultate poo\studentrole.cpp
+	"StudentRole.h"
+	"Role.cpp"
+
+1543668246 c:\users\pc\desktop\facultate poo\role.cpp
+	"Role.h"
+
+1545129703 source:c:\users\pc\desktop\sesiune\poo\facultate poo\main.cpp
+	<iostream>
+	"Person.h"
+	"Role.h"
+	"Activity.h"
+	"Room.h"
+	"StudentRole.h"
+	"ActivityRepository.h"
+	"PersonRepository.h"
+	"RoomRepository.h"
+	"Person.h"
+
+1545129665 c:\users\pc\desktop\sesiune\poo\facultate poo\person.h
+	<string>
+	"Role.h"
+	<vector>
+
+1543923626 c:\users\pc\desktop\sesiune\poo\facultate poo\role.h
+
+1545129399 c:\users\pc\desktop\sesiune\poo\facultate poo\activity.h
+	<string>
+	"Room.h"
+	"Person.h"
+
+1544952878 c:\users\pc\desktop\sesiune\poo\facultate poo\room.h
+	<string>
+
+1543612901 c:\users\pc\desktop\sesiune\poo\facultate poo\studentrole.h
+	"Role.h"
+
+1544952879 c:\users\pc\desktop\sesiune\poo\facultate poo\activityrepository.h
+	"Activity.h"
+	<vector>
+
+1544348501 c:\users\pc\desktop\sesiune\poo\facultate poo\personrepository.h
+	"Person.h"
+	<vector>
+
+1544360145 c:\users\pc\desktop\sesiune\poo\facultate poo\roomrepository.h
+	"Room.h"
+	<vector>
+
