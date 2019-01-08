@@ -1,7 +1,7 @@
 #ifndef DISCIPLINE_H_INCLUDED
 #define DISCIPLINE_H_INCLUDED
 
-#include "Activity.hpp"
+#include "Activity.h"
 #include <vector>
 #include<string>
 
