@@ -1,7 +1,7 @@
 #ifndef STUDYGROUP_HPP_INCLUDED
 #define STUDYGROUP_HPP_INCLUDED
 
-#include "Discipline.hpp"
+#include "Discipline.h"
 #include<vector>
 #include<string>
 
