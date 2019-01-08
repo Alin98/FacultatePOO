@@ -1,7 +1,7 @@
 #ifndef DISCIPLINEREP_H_INCLUDED
 #define DISCIPLINEREP_H_INCLUDED
-#include "Discipline.hpp"
-#include "Repository.hpp"
+#include "Discipline.h"
+#include "Repository.h"
 #include <vector>
 
 class DisciplineRepository : public Repository<Discipline>
