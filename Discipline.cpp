@@ -1,4 +1,4 @@
-#include "Discipline.hpp"
+#include "Discipline.h"
 
 Discipline::Discipline(std::string subject, std::string type, std::vector<Activity*> activities)
 {
