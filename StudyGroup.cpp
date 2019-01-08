@@ -1,4 +1,4 @@
-#include "StudyGroup.h"
+#include "StudyGroup.hpp"
 
 StudyGroup::StudyGroup(int group, std::vector<Discipline*> Disciplines)
 {
